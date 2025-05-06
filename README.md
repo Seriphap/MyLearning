@@ -1,4 +1,6 @@
-https://colab.research.google.com/drive/1YQ6H5by67aFnOja7Zefcw6mXyyLmfQcP?usp=sharing
+<script src="https://gist.github.com/Seriphap/ce20c6eead4e181a4252b958acf26db0.js"></script>
+
+https://gist.github.com/Seriphap/ce20c6eead4e181a4252b958acf26db0
 
 
 

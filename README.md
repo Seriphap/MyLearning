@@ -1,6 +1,6 @@
-<script src="https://gist.github.com/Seriphap/ce20c6eead4e181a4252b958acf26db0.js"></script>
-
-https://gist.github.com/Seriphap/ce20c6eead4e181a4252b958acf26db0
-
+## DADS MyCodeBook
+<p><font size="4">Streamlit&nbsp;&nbsp;https://gist.github.com/Seriphap/ce20c6eead4e181a4252b958acf26db0</p>
+<p><font size="4">Pandas&nbsp;&nbsp;https://gist.github.com/Seriphap/4f609e6ac814a22015a99673c8c50875</p>
+<p><font size="4">DaskDataFrame&nbsp;&nbsp;https://gist.github.com/Seriphap/190cd5adee9582bacd4601360d4551e1</p>
 
 
